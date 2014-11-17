@@ -1,0 +1,8 @@
+{
+  "name": "jie-icon",
+  "version": "0.0.1",
+  "main": "jie-icon.html",
+  "dependencies": {
+    "polymer": "~0.5.0"
+  }
+}
